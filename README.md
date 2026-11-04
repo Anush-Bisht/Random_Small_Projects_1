@@ -39,7 +39,7 @@ Check the `import` lines at the top of each script to see what it needs.
 ### Run a project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Random_Small_Projects_1.git
+git clone https://github.com/Anush-Bisht/Random_Small_Projects_1.git
 cd Random_Small_Projects_1
 python Calculator.py
 ```
